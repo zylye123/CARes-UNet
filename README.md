@@ -1,9 +1,19 @@
+
 # CARes-UNet
 
 CARes-UNet: Content-Aware Residual UNet for Lesion Segmentation of COVID-19 from Chest CT Images
 
 ## 0. Table of Contents
-[toc]
+- [CARes-UNet](#CARes-UNet)
+  - [0. Table of Contents](#0.-Table-of-Contents)
+
+  - [1. Authors & Maintainers](#1.-Authors-&-Maintainers)
+
+  - [2. Change Log](#2.-Change-Log)
+
+  - [3. License](#3.-License)
+
+  - [4. To-Do List](#4.-To-Do-List)
 
 ## 1. Authors & Maintainers
 
@@ -28,4 +38,3 @@ CARes-UNet: Content-Aware Residual UNet for Lesion Segmentation of COVID-19 from
 - [ ] Create GUI for presentation
 - [ ] Improve semi-supervised learning methods
 - [ ] GAN
-
