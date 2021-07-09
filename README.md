@@ -24,11 +24,11 @@ CARes-UNet: Content-Aware Residual UNet for Lesion Segmentation of COVID-19 from
 
 ## 1. Authors & Maintainers
 
-- [Yi Zhang|@zylye123](https://github.com/zylye123)
-- [Zixuan Tang|@sysu19351118](https://github.com/sysu19351118)
 - [Xinhua Xu|@sysu19351158](https://github.com/sysu19351158)
-- [Youjun Zhao|@zhaoyjoy](https://github.com/zhaoyjoy)
 - [Yuhang Wen|@Necolizer](https://github.com/Necolizer)
+- [Yi Zhang|@zylye123](https://github.com/zylye123)
+- [Youjun Zhao|@zhaoyjoy](https://github.com/zhaoyjoy)
+- [Zixuan Tang|@sysu19351118](https://github.com/sysu19351118)
 
 ## 2. Change Log
 
