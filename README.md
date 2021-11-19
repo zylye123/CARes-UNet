@@ -83,7 +83,7 @@ This repository contains the source code for the paper [CARes-UNet: Content-awar
 
 ![image-20211013210025150](img/Table1.png)
 
-![image-20211013210048309](img/Table2_and_3.png)
+![image-20211013210048309](img/Table3.png)
 
 ## 5. Usage
 
