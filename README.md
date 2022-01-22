@@ -89,7 +89,7 @@ This repository contains the source code for the paper [CARes-UNet: Content-awar
 
 ### 5.1 Prerequisites
 
-The code is built at least with the following libraries: [Python](https://www.python.org/) ; [PyTorch](https://pytorch.org/) ; Python Imaging Library ; Matplotlib ; Numpy.
+The code is built at least with the following libraries: [Python](https://www.python.org/) ; [PyTorch](https://pytorch.org/)1.9 ; Python Imaging Library ; Matplotlib ; Numpy.
 
 ### 5.2 Data Preparation
 
@@ -130,6 +130,8 @@ python test.py --pretrained_model path\to\model
 ```
 
 `path\to\model ` refers to the path of checkpoint saved in supervised or semi-supervised training.
+
+We release supervised [checkpoint](https://drive.google.com/file/d/1jv4OCiJGfWGRN3qdecJ4GXgH8uGdAkAw/view?usp=sharing) trained on COVID-SemiSeg Dataset for test demo.
 
 Lesion Segmentation results will be stored in `.\CARes_Unet`.
 
