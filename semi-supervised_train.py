@@ -28,7 +28,7 @@ parser.add_argument('--decay_start_epoch', type=int, default=800,
                     help='when to start to decay learning rate')
 parser.add_argument('--batchsize', type=int, default=2,
                     help='training batch size')
-parser.add_argument('--data_augmentation', type=bool, default=True)
+parser.add_argument('--data_augmentation', type=bool, default=False)
 
 parser.add_argument('--num_workers', type=int, default=0,
                     help='number of workers in dataloader. In windows, set num_workers=0')
