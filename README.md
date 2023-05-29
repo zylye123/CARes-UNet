@@ -30,6 +30,7 @@ This repository contains the source code for the paper [CARes-UNet: Content-awar
 
 ## 2. Change Log
 
+- [2023/05/29] Publish presentation [slides (zh-CN)](https://docs.google.com/presentation/d/1iOgIuWGv5-GkXWpkfju30m0CIxxdWfmvvVI_tR3a3R8/edit?usp=sharing) and [poster (en)](https://drive.google.com/file/d/1Z7lwCG_UeJbMp1UPz9G0op1RuvipYQ-0/view?usp=share_link) for detailing our project.
 - [2021/10/13] Our paper has been published online.
 - [2021/06/26] Improve Readme reading experience and provide more details.
 - [2021/03/27] Modify Readme file.
@@ -79,11 +80,19 @@ This repository contains the source code for the paper [CARes-UNet: Content-awar
 
 <img src="img/Fig3_Visual_Results.jpg" style="zoom:67%;" />
 
-**Figure 3** Qualitative analysis of different models.
+**Figure 3** Qualitative analysis of different models
 
-![image-20211013210025150](img/Table1.png)
+![Table1](img/Table1.png)
 
-![image-20211013210048309](img/Table3.png)
+**TABLE 1** Model Comparison on coronavirus disease 2019 (COVID)-SemiSeg Dataset
+
+![Table2](img/Table2.png)
+
+**TABLE 2** Model Comparison on COVID-19 Lung CT Lesion Segmentation Challenge – 2020 dataset
+
+![Table3](img/Table3.png)
+
+**TABLE 3** Model Comparison on UESTC-COVID-19 Dataset
 
 ## 5. Usage
 
@@ -165,4 +174,3 @@ year = {2021}
 - [x] Paper Published
 - [x] Create GUI for presentation
 - [x] Test on larger datasets
-- [ ] Improve semi-supervised learning methods
